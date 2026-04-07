@@ -158,4 +158,4 @@ def update_student(student_id: int, student: Student, db: Session = Depends(get_
 
     return {"message": "Student updated successfully"}
 
-
+kunal
